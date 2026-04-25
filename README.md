@@ -47,13 +47,13 @@ python3 elevenlabs_stt.py ./audio.wav --diarize --language-code en --out-json tr
 ```
 
 ## Screenshots
+<img width="2880" height="1800" alt="WhatsApp Image 2026-04-25 at 13 46 26" src="https://github.com/user-attachments/assets/462fd3b0-b51d-4785-b024-a8870fc081d0" />
 
-<!-- Leave space for screenshots (add your images here) -->
+<img width="2880" height="1800" alt="WhatsApp Image 2026-04-25 at 13 47 59" src="https://github.com/user-attachments/assets/9e79de19-4cfd-4b63-9e39-d2d642c4be7b" />
 
-### App home
+<img width="2880" height="1800" alt="WhatsApp Image 2026-04-25 at 13 49 08" src="https://github.com/user-attachments/assets/c09ca817-70e3-4e8a-a8a6-cd6c6a6b78d8" />
 
-![MoMento home](./screenshots/home.png)
 
-### Action items view
 
-![MoMento action items](./screenshots/action-items.png)
+
+
